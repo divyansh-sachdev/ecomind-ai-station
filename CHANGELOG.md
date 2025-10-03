@@ -1,0 +1,1 @@
+- **2025-10-03 16:55:27**: fix: handle edge case timeout in sensor initialization loop

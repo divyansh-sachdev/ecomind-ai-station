@@ -1,1 +1,2 @@
 - **2025-10-03 16:55:27**: fix: handle edge case timeout in sensor initialization loop
+- **2025-10-07 17:43:40**: refactor: simplify state machine transition logic

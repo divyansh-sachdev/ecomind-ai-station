@@ -2,3 +2,4 @@
 - **2025-10-07 17:43:40**: refactor: simplify state machine transition logic
 - **2025-10-07 20:55:12**: fix: resolve floating point conversion precision issue
 - **2025-10-10 14:07:25**: feat: add dynamic threshold adaptation for environmental drift
+- **2025-10-14 17:24:35**: perf: optimize memory footprint by reducing ring buffer depth

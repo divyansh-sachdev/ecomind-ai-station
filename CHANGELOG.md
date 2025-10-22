@@ -6,3 +6,4 @@
 - **2025-10-14 21:14:31**: test: validate thermal stability over continuous 6-hour test run
 - **2025-10-16 18:37:33**: fix: handle edge case timeout in sensor initialization loop
 - **2025-10-21 21:13:48**: feat: add visual status LED pulse code for diagnostic mode
+- **2025-10-22 10:31:33**: test: benchmark inference execution speed on ESP32 dual-core

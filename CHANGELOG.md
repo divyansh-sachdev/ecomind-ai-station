@@ -7,3 +7,4 @@
 - **2025-10-16 18:37:33**: fix: handle edge case timeout in sensor initialization loop
 - **2025-10-21 21:13:48**: feat: add visual status LED pulse code for diagnostic mode
 - **2025-10-22 10:31:33**: test: benchmark inference execution speed on ESP32 dual-core
+- **2025-10-23 19:19:44**: refactor: modularize signal processing functions into separate header

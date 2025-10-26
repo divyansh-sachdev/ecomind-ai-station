@@ -8,3 +8,4 @@
 - **2025-10-21 21:13:48**: feat: add visual status LED pulse code for diagnostic mode
 - **2025-10-22 10:31:33**: test: benchmark inference execution speed on ESP32 dual-core
 - **2025-10-23 19:19:44**: refactor: modularize signal processing functions into separate header
+- **2025-10-26 14:17:48**: docs: add circuit wiring pinout and power consumption profile

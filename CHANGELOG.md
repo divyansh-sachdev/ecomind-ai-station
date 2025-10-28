@@ -10,3 +10,4 @@
 - **2025-10-23 19:19:44**: refactor: modularize signal processing functions into separate header
 - **2025-10-26 14:17:48**: docs: add circuit wiring pinout and power consumption profile
 - **2025-10-28 11:23:15**: fix: calibrate baseline sensor offset against reference multimeter
+- **2025-10-28 20:14:37**: fix: prevent buffer underflow during rapid sensor reads

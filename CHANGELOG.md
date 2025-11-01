@@ -11,3 +11,4 @@
 - **2025-10-26 14:17:48**: docs: add circuit wiring pinout and power consumption profile
 - **2025-10-28 11:23:15**: fix: calibrate baseline sensor offset against reference multimeter
 - **2025-10-28 20:14:37**: fix: prevent buffer underflow during rapid sensor reads
+- **2025-11-01 14:53:40**: feat: implement low-power light sleep mode during idle intervals

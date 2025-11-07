@@ -13,3 +13,4 @@
 - **2025-10-28 20:14:37**: fix: prevent buffer underflow during rapid sensor reads
 - **2025-11-01 14:53:40**: feat: implement low-power light sleep mode during idle intervals
 - **2025-11-04 16:20:29**: feat: add EEPROM configuration persistence for user settings
+- **2025-11-07 21:20:19**: refactor: modularize signal processing functions into separate header

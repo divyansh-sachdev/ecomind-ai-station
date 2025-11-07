@@ -14,3 +14,4 @@
 - **2025-11-01 14:53:40**: feat: implement low-power light sleep mode during idle intervals
 - **2025-11-04 16:20:29**: feat: add EEPROM configuration persistence for user settings
 - **2025-11-07 21:20:19**: refactor: modularize signal processing functions into separate header
+- **2025-11-07 21:27:25**: docs: document serial protocol packet structure and error codes

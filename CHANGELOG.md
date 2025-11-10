@@ -15,3 +15,4 @@
 - **2025-11-04 16:20:29**: feat: add EEPROM configuration persistence for user settings
 - **2025-11-07 21:20:19**: refactor: modularize signal processing functions into separate header
 - **2025-11-07 21:27:25**: docs: document serial protocol packet structure and error codes
+- **2025-11-10 18:28:26**: perf: tune FreeRTOS task priority to eliminate frame drops

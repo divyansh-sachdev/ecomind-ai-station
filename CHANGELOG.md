@@ -18,3 +18,4 @@
 - **2025-11-10 18:28:26**: perf: tune FreeRTOS task priority to eliminate frame drops
 - **2025-11-11 11:27:25**: feat: add visual status LED pulse code for diagnostic mode
 - **2025-11-15 10:25:29**: test: benchmark inference execution speed on ESP32 dual-core
+- **2025-11-25 11:10:30**: docs: document serial protocol packet structure and error codes

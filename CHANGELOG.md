@@ -21,3 +21,4 @@
 - **2025-11-25 11:10:30**: docs: document serial protocol packet structure and error codes
 - **2025-11-26 14:49:38**: perf: tune I2C bus frequency to 400kHz for sensor polling
 - **2025-11-27 10:09:50**: feat: add hardware failsafe watchdog timer routine
+- **2025-11-28 14:06:19**: feat: add visual status LED pulse code for diagnostic mode

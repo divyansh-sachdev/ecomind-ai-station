@@ -23,3 +23,4 @@
 - **2025-11-27 10:09:50**: feat: add hardware failsafe watchdog timer routine
 - **2025-11-28 14:06:19**: feat: add visual status LED pulse code for diagnostic mode
 - **2025-12-04 15:12:18**: docs: document serial protocol packet structure and error codes
+- **2025-12-04 16:49:41**: fix: prevent buffer underflow during rapid sensor reads

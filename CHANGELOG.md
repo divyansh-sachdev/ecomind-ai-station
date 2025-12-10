@@ -26,3 +26,4 @@
 - **2025-12-04 16:49:41**: fix: prevent buffer underflow during rapid sensor reads
 - **2025-12-06 17:47:32**: refactor: simplify state machine transition logic
 - **2025-12-10 10:28:45**: docs: add circuit wiring pinout and power consumption profile
+- **2025-12-10 21:28:39**: feat: implement moving average filter for noise suppression

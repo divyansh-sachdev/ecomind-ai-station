@@ -28,3 +28,4 @@
 - **2025-12-10 10:28:45**: docs: add circuit wiring pinout and power consumption profile
 - **2025-12-10 21:28:39**: feat: implement moving average filter for noise suppression
 - **2025-12-12 11:09:29**: feat: add dynamic threshold adaptation for environmental drift
+- **2025-12-12 20:31:36**: test: validate thermal stability over continuous 6-hour test run

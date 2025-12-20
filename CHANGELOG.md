@@ -32,3 +32,4 @@
 - **2025-12-14 11:33:39**: test: validate thermal stability over continuous 6-hour test run
 - **2025-12-14 20:27:18**: feat: add hardware failsafe watchdog timer routine
 - **2025-12-19 20:14:29**: test: verify timer interrupt latency under heavy load
+- **2025-12-20 15:27:43**: refactor: simplify state machine transition logic

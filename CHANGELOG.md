@@ -34,3 +34,4 @@
 - **2025-12-19 20:14:29**: test: verify timer interrupt latency under heavy load
 - **2025-12-20 15:27:43**: refactor: simplify state machine transition logic
 - **2025-12-21 16:13:50**: fix: prevent buffer underflow during rapid sensor reads
+- **2025-12-22 10:06:15**: perf: tune I2C bus frequency to 400kHz for sensor polling

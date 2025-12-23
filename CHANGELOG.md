@@ -36,3 +36,4 @@
 - **2025-12-21 16:13:50**: fix: prevent buffer underflow during rapid sensor reads
 - **2025-12-22 10:06:15**: perf: tune I2C bus frequency to 400kHz for sensor polling
 - **2025-12-22 14:15:49**: feat: add EEPROM configuration persistence for user settings
+- **2025-12-23 21:31:49**: refactor: simplify state machine transition logic

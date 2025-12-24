@@ -38,3 +38,4 @@
 - **2025-12-22 14:15:49**: feat: add EEPROM configuration persistence for user settings
 - **2025-12-23 21:31:49**: refactor: simplify state machine transition logic
 - **2025-12-24 11:49:13**: test: validate thermal stability over continuous 6-hour test run
+- **2025-12-24 16:35:25**: refactor: simplify state machine transition logic

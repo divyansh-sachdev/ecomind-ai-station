@@ -40,3 +40,4 @@
 - **2025-12-24 11:49:13**: test: validate thermal stability over continuous 6-hour test run
 - **2025-12-24 16:35:25**: refactor: simplify state machine transition logic
 - **2025-12-24 18:24:39**: refactor: modularize signal processing functions into separate header
+- **2025-12-25 19:34:23**: docs: update README setup instructions and dependencies

@@ -43,3 +43,4 @@
 - **2025-12-25 19:34:23**: docs: update README setup instructions and dependencies
 - **2025-12-26 17:51:32**: test: benchmark inference execution speed on ESP32 dual-core
 - **2025-12-26 18:13:33**: feat: implement moving average filter for noise suppression
+- **2025-12-26 20:40:16**: refactor: optimize ADC sampling window and reduce jitter

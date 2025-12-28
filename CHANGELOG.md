@@ -45,3 +45,4 @@
 - **2025-12-26 18:13:33**: feat: implement moving average filter for noise suppression
 - **2025-12-26 20:40:16**: refactor: optimize ADC sampling window and reduce jitter
 - **2025-12-27 11:22:38**: feat: implement moving average filter for noise suppression
+- **2025-12-28 21:31:25**: perf: optimize memory footprint by reducing ring buffer depth
